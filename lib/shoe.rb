@@ -4,7 +4,7 @@ attr_accessor :color, :size, :material, :condition, :brand
 attr_reader :brand
 
   def initialize(brand)
-    @brand
+    @brand = brand
   end
 
   def cobble
