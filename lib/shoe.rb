@@ -7,7 +7,7 @@ def initialize(brand)
 end
 
 def cobble
-
+  puts "Your she is as good as new!"
 end
 
 end
